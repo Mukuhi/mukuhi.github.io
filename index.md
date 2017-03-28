@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html>
 <head>
 </head>
 <body>
-<h2>Send e-mail to someone@example.com:</h2>
+<h2>Give us your feedback</h2>
 
 <form action="mailto:mukuhisimfa@gmail.com" method="post" enctype="text/plain">
 Name:<br>
